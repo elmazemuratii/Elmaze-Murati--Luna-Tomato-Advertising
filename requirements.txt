@@ -1,0 +1,4 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+# opsionale: heyoka (vetëm nëse do të përdorësh lta_udp.py zyrtar për plot/propagim)
