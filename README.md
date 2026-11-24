@@ -1,4 +1,4 @@
---Luna-Tomato-Advertising
+#--Luna-Tomato-Advertising
 
 1. Problemi
 Mesazhi "Tomatoes for sale" kthehet në sinjal Morse binar (2710 mostra, dt = 0.01036 ditë). Çdo anije në një orbitë periodike
